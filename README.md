@@ -2,6 +2,11 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, passionate about video games and developer of Discord bots.
 
+#### Contact Info:
+- [<img align="center" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" style="max-width: 100%;"> ](https://twitter.com/Juani_Battiston)
+- [<img align="center" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" style="max-width: 100%;">](mailto:juan.i.b02@hotmail.com)
+
+
 ## Skill and Experience
 
 ### Languages 
@@ -28,8 +33,4 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - [Videogame Quotes API](https://github.com/Batucho/Videogame-Quotes-API)
 - Bbot - Batucho's personal discord Bot (Code not publicly available)
 
-## Contact Info
-[<img align="top" width="60px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" style="max-width: 100%;"> ](https://twitter.com/Juani_Battiston)
-
-
-[<img align="bottom-left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" style="max-width: 100%;">](mailto:juan.i.b02@hotmail.com)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?batucho&theme=dark)
