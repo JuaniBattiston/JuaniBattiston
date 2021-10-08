@@ -29,8 +29,7 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - Bbot - Batucho's personal discord Bot (Code not publicly available)
 
 ## Contact Info
+[<img align="top" width="60px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" style="max-width: 100%;"> ](https://twitter.com/Juani_Battiston)
 
-<p align="center">
-<img href="https://twitter.com/Juani_Battiston" align="center" width="70px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" style="max-width: 100%;"> 
-<img align="center" width="70px " href="mailto:juan.i.b02@hotmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" style="max-width: 100%;">
-</p>
+
+[<img align="bottom-left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" style="max-width: 100%;">](mailto:juan.i.b02@hotmail.com)
