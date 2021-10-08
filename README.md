@@ -33,4 +33,4 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - [Videogame Quotes API](https://github.com/Batucho/Videogame-Quotes-API)
 - Bbot - Batucho's personal discord Bot (Code not publicly available)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?Batucho&theme=dark" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Batucho&theme=dark&title_color=00bfff&border_radius=10&border_color=00bfff&bg_color=232323" />
