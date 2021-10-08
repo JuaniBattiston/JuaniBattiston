@@ -5,12 +5,12 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 ## Skill and Experience
 
 ### Languages 
-- [<img align="top" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="max-width: 100%;">]
-- HTML
-- CSS
+- <img align="top" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="max-width: 100%;">
+- <img align="top" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/html.svg" style="max-width: 100%;">
+- <img align="top" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/css.svg" style="max-width: 100%;">
 - SQL
-- [<img align="top" width="22px" src="CSShttps://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="max-width: 100%;">]
-- C++ (Learning)
+- <img align="top" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="max-width: 100%;">
+- <img align="top" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" style="max-width: 100%;"> (Learning)
 ### Main Frameworks
 - discordpy
 - BeautifulSoup
