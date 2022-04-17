@@ -20,7 +20,7 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - BeautifulSoup
 - Flask/Flask_api
 - Fastapi
-- SQLAlchemy/pydantic
+- SQLAlchemy
 - Django
 
 ### Tools
@@ -28,8 +28,7 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - <img align="center" width="22px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" style="max-width: 100%;"> 
 - <img align="center" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" style="max-width: 100%;"> 
 ### Active Projects
-- [Gifpy](https://github.com/Batucho/gifpy)
-- [Videogame Quotes API](https://github.com/Batucho/Videogame-Quotes-API)
+- [Rocketman](https://github.com/Batucho/Rocketman)
 - [Oriole - Discord Bot](https://github.com/Batucho/Oriole-DiscordBot)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Batucho&theme=dark&title_color=00bfff&border_radius=10&border_color=00bfff&bg_color=232323" />
