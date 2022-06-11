@@ -31,4 +31,4 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - [Rocketman](https://github.com/Batucho/Rocketman)
 - [Oriole - Discord Bot](https://github.com/Batucho/Oriole-DiscordBot)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Batucho&theme=dark&title_color=00bfff&border_radius=10&border_color=00bfff&bg_color=232323" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuaniBattiston&theme=dark&title_color=00bfff&border_radius=10&border_color=00bfff&bg_color=232323" />
