@@ -23,7 +23,7 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         git pull
         git add -f README.md
-        git commit -m Update joke!
+        git commit -m "Update joke!"
     - uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
