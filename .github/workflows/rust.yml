@@ -19,3 +19,5 @@ jobs:
       run: cargo run --verbose
     - name: Update joke on readme file.
       uses: mikeal/publish-to-github-action@1.0.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
