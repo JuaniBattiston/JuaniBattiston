@@ -1,4 +1,4 @@
-name: Rust
+name: Update readme joke
 
 on:
   workflow_dispatch:
