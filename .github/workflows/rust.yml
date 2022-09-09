@@ -1,0 +1,21 @@
+name: Rust
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 3 * * *'
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  update_readme:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Run
+      run: cargo run --verbose
+    - name: Update joke on readme file.
+      uses: mikeal/publish-to-github-action@1.0.0
