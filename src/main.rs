@@ -26,7 +26,7 @@ async fn gen_readme_text(
     let mut file = fs::File::open("src/sample_readme.md")?;
     let mut contents = String::new();
     let joke_str = format!(
-        "<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)\n{}\n{}",
+        "<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br>{}<br>{}",
         "<b>".to_owned() + &joke[0]["question"] + &"</b>".to_owned(),
         "<i>".to_owned() + &joke[0]["punchline"] + &"</i>".to_owned()
     );
