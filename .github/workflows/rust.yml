@@ -18,7 +18,12 @@ jobs:
     - name: Run
       run: cargo run --verbose
     - name: Update joke on readme file.
-      uses: mikeal/publish-to-github-action@1.0.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH_NAME: 'main'
+      run: |
+        git config user.name "Automated Publisher"
+        git config user.email "actions@users.noreply.github.com"
+        git pull
+        git add -f README.md
+        git commit -m Update joke!
+    - uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
