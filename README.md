@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why don't bachelors like Git?</b><br><i>Because they are afraid to commit.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the computer keep sneezing?</b><br><i>It has a virus.</i>
 
 #### Contact Info:
 
@@ -40,3 +40,4 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 - [Oriole - Discord Bot](https://github.com/Batucho/Oriole-DiscordBot)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuaniBattiston&theme=dark&title_color=00bfff&border_radius=10&border_color=00bfff&bg_color=232323" />
+r=232323" />
