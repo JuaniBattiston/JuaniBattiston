@@ -14,6 +14,7 @@ async fn main() -> std::io::Result<()> {
 async fn write_readme(bytes: &[u8]) -> Result<(), Box<dyn std::error::Error>> {
     let mut file = fs::OpenOptions::new()
         .write(true)
+        .truncate(true)
         .open("README.md")
         .unwrap();
     file.write_all(bytes).expect("Could not write!");
