@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Do you know why GraphQL is so fast?</b><br><i>Because it can't REST.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Waitress: Do you have any questions about the menu?</b><br><i>Dev: What kind of font it is?</i>
 
 #### Contact Info:
 
