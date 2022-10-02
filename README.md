@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>A SQL query goes into a bar, walks up to two tables and asks:</b><br><i>"Can I join you?"</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why don't parents teach their kids about regular expressions?</b><br><i>Because they don't want them playing with matches.</i>
 
 #### Contact Info:
 
