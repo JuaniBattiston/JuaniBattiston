@@ -10,6 +10,6 @@ Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate
 
 ### Active Projects
 
-<b>No active projects for now :c</b>
+<i>No active projects for now :c</i>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuaniBattiston&theme=dark&title_color=00bfff&border_radius=10&border_color=00bfff&bg_color=232323" />
