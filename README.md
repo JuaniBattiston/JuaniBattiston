@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do all HTML emails get blocked?</b><br><i>Because they are all spans.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What are your plans for the weekend?</b><br><i>I know Front-end and Back-end, what is week-end?</i>
 
 #### Contact Info:
 
