@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the constant break up with the variable?</b><br><i>Because they changed.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What do you call a doctor who fixes websites?</b><br><i>A URLogist</i>
 
 #### Contact Info:
 
