@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What is the hardest part in programming?</b><br><i>Naming variables.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Which programming language is the shortest?</b><br><i>HTML, because it doesn't have a neck between head and body.</i>
 
 #### Contact Info:
 
