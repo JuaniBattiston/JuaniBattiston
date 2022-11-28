@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the document store go out of business?</b><br><i>It has NoSQL.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why doesn't Hollywood make more Big Data movies?</b><br><i>NoSQL</i>
 
 #### Contact Info:
 
