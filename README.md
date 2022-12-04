@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Programmer (noun)</b><br><i>A machine that turns coffee into code.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>There are 10 types of people in this world, those who understand binary and those who don't.</b><br><i>:)</i>
 
 #### Contact Info:
 
