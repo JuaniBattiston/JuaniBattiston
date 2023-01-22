@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why was nobody given food at the developer conference?</b><br><i>It was a serverless function.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do backend devs never run out of energy?</b><br><i>They build REST APIs.</i>
 
 #### Contact Info:
 
