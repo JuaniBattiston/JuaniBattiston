@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why was the computer freezing?</b><br><i>It left its Windows open.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What did the Class say in court when put on trial?</b><br><i>I strongly object!</i>
 
 #### Contact Info:
 
