@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What did the Python say when they came out of the shell?</b><br><i>Print("Hello World!")</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Exercise for others - 160 calories burned.</b><br><i>Exercise for coders - 60 bugs fixed.</i>
 
 #### Contact Info:
 
