@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How did your dog eat your coding assignment?</b><br><i>It took him a couple bytes.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What did the fruit basket say to the developer?</b><br><i>I hope you're ready for some pear programming.</i>
 
 #### Contact Info:
 
