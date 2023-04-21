@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why was nobody given food at the developer conference?</b><br><i>It was a serverless function.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Algorithm (noun)</b><br><i>Word used by programmers when.. they do not want to explain what they did.</i>
 
 #### Contact Info:
 
