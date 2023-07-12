@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What are clouds made of?</b><br><i>Mostly linux servers.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do assembly level programmers need to know how to swim?</b><br><i>Because they work below C level.</i>
 
 #### Contact Info:
 
