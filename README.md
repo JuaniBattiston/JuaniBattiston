@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What did the developer say to their friend who was having a bad day?</b><br><i>Everything's going to be 200.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What's the second movie about a database engineer called?</b><br><i>The SQL.</i>
 
 #### Contact Info:
 
