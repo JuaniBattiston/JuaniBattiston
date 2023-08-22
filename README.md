@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why are machine learning models so fit?</b><br><i>Because they do weight training.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What did the proud React component say to its child?</b><br><i>I've got to give you props.</i>
 
 #### Contact Info:
 
