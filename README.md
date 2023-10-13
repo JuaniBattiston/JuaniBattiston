@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why couldn't web developer find their room in a hotel?</b><br><i>Because their room number was 404.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why was nobody given food at the developer conference?</b><br><i>It was a serverless function.</i>
 
 #### Contact Info:
 
