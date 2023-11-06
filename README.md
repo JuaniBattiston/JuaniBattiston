@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do C# and Java developers keep breaking their keyboards?</b><br><i>Because they use a strongly typed language.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What is the hardest part in programming?</b><br><i>Naming variables.</i>
 
 #### Contact Info:
 
