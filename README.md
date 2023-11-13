@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How does a programmer open a jar?</b><br><i>They install Java.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why does keyboard sleep?</b><br><i>Because it has two shifts.</i>
 
 #### Contact Info:
 
