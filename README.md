@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why can't SQL and NoSQL Developers date one other?</b><br><i>Because they don't agree on relationships.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How did your dog eat your coding assignment?</b><br><i>It took him a couple bytes.</i>
 
 #### Contact Info:
 
