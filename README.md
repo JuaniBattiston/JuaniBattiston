@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What are clouds made of?</b><br><i>Mostly linux servers.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Where do programmer dad's store their jokes?</b><br><i>In a dad-a-base.</i>
 
 #### Contact Info:
 
