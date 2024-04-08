@@ -1,6 +1,32 @@
-use std::collections::HashMap;
 use std::fs;
 use std::io::prelude::*;
+use serde::Deserialize;
+
+#[allow(dead_code)]
+#[derive(Debug, Deserialize)]
+struct JokeResponse {
+    error: bool,
+    category: String,
+    #[serde(rename = "type")]
+    joke_type: String,
+    setup: String,
+    delivery: String,
+    flags: Flags,
+    id: u32,
+    safe: bool,
+    lang: String,
+}
+
+#[allow(dead_code)]
+#[derive(Debug, Deserialize)]
+struct Flags {
+    nsfw: bool,
+    religious: bool,
+    political: bool,
+    racist: bool,
+    sexist: bool,
+    explicit: bool,
+}
 
 #[tokio::main]
 async fn main() -> std::io::Result<()> {
@@ -22,24 +48,26 @@ async fn write_readme(bytes: &[u8]) -> Result<(), Box<dyn std::error::Error>> {
 }
 
 async fn gen_readme_text(
-    joke: Vec<HashMap<String, String>>,
+    joke: JokeResponse,
 ) -> Result<String, Box<dyn std::error::Error>> {
     let mut file = fs::File::open("src/sample_readme.md")?;
     let mut contents = String::new();
     let joke_str = format!(
         "<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br>{}<br>{}",
-        "<b>".to_owned() + &joke[0]["question"] + &"</b>".to_owned(),
-        "<i>".to_owned() + &joke[0]["punchline"] + &"</i>".to_owned()
+        "<b>".to_owned() + &joke.setup + &"</b>".to_owned(),
+        "<i>".to_owned() + &joke.delivery + &"</i>".to_owned()
     );
     file.read_to_string(&mut contents)?;
     contents = contents.replace("{question_boilerplate}", &joke_str);
     Ok(contents)
 }
 
-async fn get_joke() -> Result<Vec<HashMap<String, String>>, Box<dyn std::error::Error>> {
-    let resp = reqwest::get("https://backend-omega-seven.vercel.app/api/getjoke")
+async fn get_joke() -> Result<JokeResponse, Box<dyn std::error::Error>> {
+    let url = "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart";
+    let resp = reqwest::get(url)
         .await?
-        .json::<Vec<HashMap<String, String>>>()
+        .json::<JokeResponse>()
         .await?;
+
     Ok(resp)
 }
