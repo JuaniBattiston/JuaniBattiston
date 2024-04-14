@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Hey baby I wish your name was asynchronous...</b><br><i>... so you'd give me a callback.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>So what's a set of predefined steps the government might take to preserve the environment?</b><br><i>An Al-Gore-ithm.</i>
 
 #### Contact Info:
 
