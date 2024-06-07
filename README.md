@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why is 6 afraid of 7 in hexadecimal Canada?</b><br><i>Because 7 8 9 A?</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the Python programmer not respond to the foreign mails he got?</b><br><i>Because his interpreter was busy collecting garbage.</i>
 
 #### Contact Info:
 
