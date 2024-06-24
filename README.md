@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the JavaScript heap close shop?</b><br><i>It ran out of memory.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why are Assembly programmers always soaking wet?</b><br><i>They work below C-level.</i>
 
 #### Contact Info:
 
