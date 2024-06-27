@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the programmer jump on the table?</b><br><i>Because debug was on his screen.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>why do python programmers wear glasses?</b><br><i>Because they can't C.</i>
 
 #### Contact Info:
 
