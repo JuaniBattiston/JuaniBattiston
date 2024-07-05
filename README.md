@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the web developer walk out of a resturant in disgust?</b><br><i>The seating was laid out in tables.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why was the JavaScript developer sad?</b><br><i>Because they didn't Node how to Express themself!</i>
 
 #### Contact Info:
 
