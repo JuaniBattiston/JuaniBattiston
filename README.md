@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What do you call a developer who doesn't comment code?</b><br><i>A developer.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What do you call a group of 8 Hobbits?</b><br><i>A Hobbyte.</i>
 
 #### Contact Info:
 
