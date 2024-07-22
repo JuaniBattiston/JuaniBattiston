@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What is a dying programmer's last program?</b><br><i>Goodbye, world!</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How did the programmer die in the shower?</b><br><i>He read the shampoo bottle instructions: Lather. Rinse. Repeat.</i>
 
 #### Contact Info:
 
