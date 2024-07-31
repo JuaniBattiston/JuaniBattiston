@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers prefer using the dark mode?</b><br><i>Because light attracts bugs.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How can you tell an extroverted programmer?</b><br><i>He looks at YOUR shoes when he's talking.</i>
 
 #### Contact Info:
 
