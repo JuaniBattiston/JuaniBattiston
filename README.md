@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What's the object-oriented way to become wealthy?</b><br><i>Inheritance.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the functional programmer get thrown out of school?</b><br><i>Because he refused to take classes.</i>
 
 #### Contact Info:
 
