@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How can you tell an extroverted programmer?</b><br><i>He looks at YOUR shoes when he's talking.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why are Assembly programmers always soaking wet?</b><br><i>They work below C-level.</i>
 
 #### Contact Info:
 
