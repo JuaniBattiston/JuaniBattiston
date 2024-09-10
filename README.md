@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers wear glasses?</b><br><i>Because they need to C#</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why are modern programming languages so materialistic?</b><br><i>Because they are object-oriented.</i>
 
 #### Contact Info:
 
