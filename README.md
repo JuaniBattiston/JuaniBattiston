@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</b><br><i>A regular expression.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the web developer walk out of a resturant in disgust?</b><br><i>The seating was laid out in tables.</i>
 
 #### Contact Info:
 
