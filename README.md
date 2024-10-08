@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani. I'm an intermediate level developer, currently working on learning more about web programming, Rust and developing discord bots on the side.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the Python data scientist get arrested at customs?</b><br><i>She was caught trying to import pandas!</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the functional programmer get thrown out of school?</b><br><i>Because he refused to take classes.</i>
 
 #### Contact Info:
 
