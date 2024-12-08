@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the programmer quit his job?</b><br><i>Because he didn't get arrays.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How many programmers does it take to screw in a light bulb?</b><br><i>None. It's a hardware problem.</i>
 
 #### Contact Info:
 
