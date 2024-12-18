@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do Java programmers hate communism?</b><br><i>They don't want to live in a classless society.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>.NET developers are picky when it comes to food.</b><br><i>They only like chicken NuGet.</i>
 
 #### Contact Info:
 
