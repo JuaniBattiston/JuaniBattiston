@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers wear glasses?</b><br><i>Because they need to C#</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the Python programmer not respond to the foreign mails he got?</b><br><i>Because his interpreter was busy collecting garbage.</i>
 
 #### Contact Info:
 
