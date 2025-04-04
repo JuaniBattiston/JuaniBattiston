@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why are Assembly programmers always soaking wet?</b><br><i>They work below C-level.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why was the JavaScript developer sad?</b><br><i>Because they didn't Node how to Express themself!</i>
 
 #### Contact Info:
 
