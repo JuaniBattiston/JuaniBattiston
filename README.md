@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How many programmers does it take to screw in a light bulb?</b><br><i>None. It's a hardware problem.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why is Linux safe?</b><br><i>Hackers peak through Windows only.</i>
 
 #### Contact Info:
 
