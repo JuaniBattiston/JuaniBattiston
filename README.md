@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the web developer walk out of a resturant in disgust?</b><br><i>The seating was laid out in tables.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers confuse Halloween and Christmas?</b><br><i>Because Oct 31 = Dec 25</i>
 
 #### Contact Info:
 
