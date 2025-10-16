@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What is the best prefix for global variables?</b><br><i>//</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers wear glasses?</b><br><i>Because they need to C#</i>
 
 #### Contact Info:
 
