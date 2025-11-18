@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the functional programmer get thrown out of school?</b><br><i>Because he refused to take classes.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the web developer walk out of a resturant in disgust?</b><br><i>The seating was laid out in tables.</i>
 
 #### Contact Info:
 
