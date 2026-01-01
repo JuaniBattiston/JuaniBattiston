@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How did you make your friend rage?</b><br><i>I implemented a greek question mark in his JavaScript code.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What is the most used language in programming?</b><br><i>Profanity.</i>
 
 #### Contact Info:
 
