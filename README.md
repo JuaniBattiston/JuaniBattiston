@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How can you tell an extroverted programmer?</b><br><i>He looks at YOUR shoes when he's talking.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers wear glasses?</b><br><i>Because they need to C#</i>
 
 #### Contact Info:
 
