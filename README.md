@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the web developer walk out of a resturant in disgust?</b><br><i>The seating was laid out in tables.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How do you generate a random string?</b><br><i>Put a Windows user in front of Vim and tell them to exit.</i>
 
 #### Contact Info:
 
