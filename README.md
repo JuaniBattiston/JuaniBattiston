@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the JavaScript heap close shop?</b><br><i>It ran out of memory.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Hey, wanna hear a joke?</b><br><i>Parsing HTML with regex.</i>
 
 #### Contact Info:
 
