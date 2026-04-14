@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>How did the programmer die in the shower?</b><br><i>He read the shampoo bottle instructions: Lather. Rinse. Repeat.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the Python programmer not respond to the foreign mails he got?</b><br><i>Because his interpreter was busy collecting garbage.</i>
 
 #### Contact Info:
 
