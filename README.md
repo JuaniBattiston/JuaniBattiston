@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why are modern programming languages so materialistic?</b><br><i>Because they are object-oriented.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</b><br><i>A regular expression.</i>
 
 #### Contact Info:
 
