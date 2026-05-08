@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Hey baby I wish your name was asynchronous...</b><br><i>... so you'd give me a callback.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why did the JavaScript heap close shop?</b><br><i>It ran out of memory.</i>
 
 #### Contact Info:
 
