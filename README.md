@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What do you call a developer who doesn't comment code?</b><br><i>A developer.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why does no one like SQLrillex?</b><br><i>He keeps dropping the database.</i>
 
 #### Contact Info:
 
