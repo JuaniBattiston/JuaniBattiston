@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why is 6 afraid of 7 in hexadecimal Canada?</b><br><i>Because 7 8 9 A?</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why is Linux safe?</b><br><i>Hackers peak through Windows only.</i>
 
 #### Contact Info:
 
