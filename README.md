@@ -2,7 +2,7 @@
 
 Hey! I'm Juan Ignacio Battiston but everyone calls me Juani, I'm a software engineer based in Córdoba, Argentina.
 
-<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>What's the object-oriented way to become wealthy?</b><br><i>Inheritance.</i>
+<b>Joke of the day!</b> (Come again tommorrow for a new one 😎)<br><b>Why do programmers prefer using the dark mode?</b><br><i>Because light attracts bugs.</i>
 
 #### Contact Info:
 
